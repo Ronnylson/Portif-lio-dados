@@ -1,2 +1,2 @@
 # Portif-lio-dados
-Aprendizado Machine Lean
+Aprendizado Machine Lean com Inteligência Artificial
